@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DaVinci Studios
 
 You can use the [editor on GitHub](https://github.com/davincistudios/davincistudios.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
